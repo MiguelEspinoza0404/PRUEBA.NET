@@ -1,0 +1,6 @@
+@PRUEBA2_MAEV_HostAddress = http://localhost:5066
+
+GET {{PRUEBA2_MAEV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

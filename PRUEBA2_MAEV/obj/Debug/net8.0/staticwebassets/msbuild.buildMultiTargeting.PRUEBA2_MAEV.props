@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRUEBA2_MAEV.props" />
+</Project>

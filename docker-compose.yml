@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  prueba2_maev:
+    image: ${DOCKER_REGISTRY-}prueba2maev
+    build:
+      context: .
+      dockerfile: PRUEBA2_MAEV/Dockerfile
+    ports:
+    - "5000:8080"  # Mapea el puerto 5000 del host al 8080 del contenedor
+    - "5001:8081"  # Si necesitas habilitar HTTPS, mapea el puerto 5001 del host al 8081 del contenedor
+
+
+    environment:
+      # Usamos el nombre del servicio sqlserver en lugar de una IP estática
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=Liquidacion_pago;User Id=sa;Password=Lem0nCode!;TrustServerCertificate=True;
+    depends_on:
+      - sqlserver  # Asegura que el contenedor de SQL Server se inicie antes de la API
+    networks:
+      - mynetwork  # Coloca la API en la misma red que SQL Server
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserverprueba2
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrong!Password  # Cambia la contraseña por una segura
+    ports:
+      - "1433:1433"  # Expone el puerto de SQL Server
+    volumes:
+      - sqlserver_data:/var/opt/mssql  # Volumen para persistir los datos
+    networks:
+      - mynetwork  # Coloca SQL Server en la misma red que la API
+
+networks:
+  mynetwork:
+    driver: bridge
+
+volumes:
+  sqlserver_data:

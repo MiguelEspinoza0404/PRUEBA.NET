@@ -1,0 +1,83 @@
+name: dockercompose11407639418691336563
+services:
+  prueba2_maev:
+    build:
+      context: C:\Users\temporal\source\repos\PRUEBA2_MAEV
+      dockerfile: PRUEBA2_MAEV/Dockerfile
+    depends_on:
+      sqlserver:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__DefaultConnection: Server=sqlserver,1433;Database=Liquidacion_pago;User Id=sa;Password=Lem0nCode!;TrustServerCertificate=True;
+    image: prueba2maev
+    networks:
+      mynetwork: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "5000"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "5001"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\temporal\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\temporal\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\temporal\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\temporal\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  sqlserver:
+    container_name: sqlserverprueba2
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: YourStrong!Password
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      mynetwork: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: sqlserver_data
+        target: /var/opt/mssql
+        volume: {}
+networks:
+  mynetwork:
+    name: dockercompose11407639418691336563_mynetwork
+    driver: bridge
+volumes:
+  sqlserver_data:
+    name: dockercompose11407639418691336563_sqlserver_data

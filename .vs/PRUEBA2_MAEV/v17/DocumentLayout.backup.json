@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\controllers\\liquidacionpagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\controllers\\liquidacionpagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\prueba2_maev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\prueba2_maev.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\database\\models\\liquidacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\database\\models\\liquidacionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\utils\\validaciones\\validacionesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\utils\\validaciones\\validacionesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\database\\models\\monedaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\database\\models\\monedaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\database\\models\\pagomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\database\\models\\pagomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\utils\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\utils\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\utils\\pagorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\utils\\pagorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|c:\\users\\temporal\\source\\repos\\prueba2_maev\\prueba2_maev\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F442656-B2C3-4DB9-855D-EB1BA755419A}|PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj|solutionrelative:prueba2_maev\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PRUEBA2_MAEV.csproj",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj",
+              "RelativeToolTip": "PRUEBA2_MAEV\\PRUEBA2_MAEV.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T19:36:39.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Dockerfile",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\Dockerfile",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Dockerfile",
+              "RelativeToolTip": "PRUEBA2_MAEV\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-20T19:33:03.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\appsettings.json",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\appsettings.json",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\appsettings.json",
+              "RelativeToolTip": "PRUEBA2_MAEV\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T16:58:21.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LiquidacionPagoController.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Controllers\\LiquidacionPagoController.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\Controllers\\LiquidacionPagoController.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Controllers\\LiquidacionPagoController.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\Controllers\\LiquidacionPagoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:25:18.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Program.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\Program.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Program.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:59:17.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAiwMkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-20T19:39:42.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidacionesModel.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Utils\\Validaciones\\ValidacionesModel.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\Utils\\Validaciones\\ValidacionesModel.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Utils\\Validaciones\\ValidacionesModel.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\Utils\\Validaciones\\ValidacionesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:47:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LiquidacionModel.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\Models\\LiquidacionModel.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\DataBase\\Models\\LiquidacionModel.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\Models\\LiquidacionModel.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\DataBase\\Models\\LiquidacionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:24:13.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\DataBase\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\ApplicationDBContext.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\DataBase\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:23:56.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonedaEnum.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\Models\\MonedaEnum.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\DataBase\\Models\\MonedaEnum.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\Models\\MonedaEnum.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\DataBase\\Models\\MonedaEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:37:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagoModel.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\Models\\PagoModel.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\DataBase\\Models\\PagoModel.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\DataBase\\Models\\PagoModel.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\DataBase\\Models\\PagoModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:36:31.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Utils\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\Utils\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Utils\\GenericResponse.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\Utils\\GenericResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:28:09.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Utils\\PagoRequest.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\Utils\\PagoRequest.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Utils\\PagoRequest.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\Utils\\PagoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:39:56.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PRUEBA2_MAEV\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\temporal\\source\\repos\\PRUEBA2_MAEV\\PRUEBA2_MAEV\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PRUEBA2_MAEV\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T16:25:20.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
